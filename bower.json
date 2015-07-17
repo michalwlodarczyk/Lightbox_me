@@ -1,0 +1,14 @@
+{
+  "name": "arsthanea_lightbox_me",
+  "version": "1.0.0",
+  "homepage": "https://github.com/michalwlodarczyk/Lightbox_me",
+  "authors": [
+    "michalwlodarczyk <michalw@arsthanea.com>"
+  ],
+  "description": "An easy to use lightbox plugin for jQuery",
+  "main": "jquery.lightbox_me.js",
+  "keywords": [
+    "lightbox"
+  ],
+  "license": "MIT"
+}
